@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/oneone"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1.5"
+            android:text="@string/onetwo"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/onethree"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/onefour"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/twoone"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1.5"
+            android:text="@string/twotwo"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/twothree"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/twofour"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/threeone"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/threetwo"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/threethree"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/threefour"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/fourone"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1.5"
+            android:text="@string/fourtwo"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/fourthree"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/fourfour"
+            android:textSize="15sp"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@color/black"
+            android:layout_margin="1dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
