@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="310dp"
+        android:layout_height="65dp"
+        android:src="@drawable/header_logo"/>
+
+    <EditText
+        android:id="@+id/et1"
+        android:padding="10dp"
+        android:hint="@string/username"
+        android:layout_width="310dp"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:padding="10dp"
+        android:id="@+id/rt2"
+        android:inputType="textPassword"
+        android:hint="@string/password"
+        android:layout_width="310dp"
+        android:layout_height="50dp"/>
+
+</LinearLayout>

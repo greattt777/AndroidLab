@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="showAD">显示对话框</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="text">用于测试的内容</string>
+    <string name="mode1">mode1</string>
+    <string name="selected">selected</string>
+</resources>
