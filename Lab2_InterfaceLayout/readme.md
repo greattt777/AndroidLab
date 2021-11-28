@@ -8,7 +8,7 @@
 
  * 实现的效果：
 
-   ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab2/1.png)
+   ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab2_InterfaceLayout/1.png)
 
  * 关键代码：第一行的效果代码
 
@@ -76,7 +76,7 @@
 
  * 实现的效果：
 
-   ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab2/2.png)
+   ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab2_InterfaceLayout/2.png)
 
  * 关键代码：数字和运算按钮的第一行的效果代码
 
@@ -148,7 +148,7 @@
 
  * 实现的效果：
 
-   ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab2/3.png)
+   ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab2_InterfaceLayout/3.png)
 
  * 关键代码：第三行的效果代码
 
