@@ -9,15 +9,15 @@
 
 * app里的build.gradle
 
-![image-20211128145707631](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\2.png)
+![image-20211128145707631](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/2.png)
 
 * gradle-wrapper.properties
 
-![image-20211128145921586](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\3.png)
+![image-20211128145921586](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/3.png)
 
 * 项目的build.gradle
 
-![image-20211128150202020](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\4.png)
+![image-20211128150202020](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/4.png)
 
 * 修改完后，就可以进行编译，正常运行基本框架
 
@@ -111,19 +111,19 @@
 
 * 在NoteList.class中增加“修改时间”和“笔记内容”（后续需要）的字符串
 
-![image-20211128150926599](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\5.png)
+![image-20211128150926599](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/5.png)
 
 * 在NoteList.class中获取数据的时候也增加“修改时间”和“笔记内容”（后续需要）的字符串和所需要的组件id
 
-![image-20211128151229786](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\6.png)
+![image-20211128151229786](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/6.png)
 
 * 但是此时时间显示的是一串数字，需要对其进行格式转化进行显示，在NoteList.class中添加“自定义时间的显示格式”的代码
 
-![image-20211128151629628](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\7.png)
+![image-20211128151629628](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/7.png)
 
 * 至此，就完成了在NoteList的每个条目显示时间的功能
 
-![image-20211128152450773](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\8.png)
+![image-20211128152450773](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/8.png)
 
 #### 3、功能二、添加笔记查询功能（根据标题查询）
 
@@ -213,9 +213,9 @@
 
 * 至此，就完成了根据笔记的标题进行查询的功能
 
-![image-20211128153511237](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\9.png)
+![image-20211128153511237](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/9.png)
 
-![image-20211128153620900](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\10.png)
+![image-20211128153620900](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/10.png)
 
 #### 4、功能三、UI美化
 
@@ -288,11 +288,11 @@
 
 ​	修改AndroidManifest.xml的theme与icon
 
-![image-20211128155822433](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\12.png)
+![image-20211128155822433](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/12.png)
 
 ​	完成效果，点击时会变色
 
-![image-20211128155339193](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\11.png)
+![image-20211128155339193](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/11.png)
 
 * 美化NoteEditor
 
@@ -322,7 +322,7 @@
 
 ​	在NoteEditor的布局文件note_editor.xml中设置<View>的背景
 
-![image-20211128160410494](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\13.png)
+![image-20211128160410494](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/13.png)
 
 ​	修改editor_options_menu.xml，其中id为menu_speech的item为后续需要
 
@@ -348,13 +348,13 @@
 
 ​	完成效果
 
-![image-20211128161712192](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\14.png)
+![image-20211128161712192](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/14.png)
 
 * 美化TitleEditor
 
   修改AndroidManifest.xml的theme
 
-![image-20211128161912084](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\15.png)
+![image-20211128161912084](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/15.png)
 
 ​	修改TitleEditor的布局文件title_editor.xml
 
@@ -455,49 +455,49 @@
 
 ​	完成效果
 
-![image-20211128162811547](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\16.png)
+![image-20211128162811547](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/16.png)
 
 #### 5、功能四、用语音识别来书写笔记
 
 * 在百度智能云的语音技术创建一个应用
 
-![image-20211128163155323](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\17.png)
+![image-20211128163155323](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/17.png)
 
 * 注意创建应用时的语音包名要和你要集成的包名一样，我这里就是填com.example.android.notepad
 
-![image-20211128163341487](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\18.png)
+![image-20211128163341487](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/18.png)
 
 * 创建完后就会看到一下数据，等下要用到
 
-![image-20211128163556399](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\19.png)
+![image-20211128163556399](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/19.png)
 
 * 领取免费的语音识别资源，领取”短语音识别-中文普通话“，由于我已领取，进入到里面无此选项，所以不截进入领取界面的截图
 
-![image-20211128163728721](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\20.png)
+![image-20211128163728721](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/20.png)
 
 * 下载SDK
 
-![image-20211128164122538](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\21.png)
+![image-20211128164122538](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/21.png)
 
 * 插入下载的SDK中的core模块，由于我已经导入，所以会有感叹号
 
   file->new->import module
 
-![image-20211128164438778](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\22.png)
+![image-20211128164438778](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/22.png)
 
 * 加载导入的core模块文件
 
   右击app，点击open module settings
 
-![image-20211128164649033](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\23.png)
+![image-20211128164649033](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/23.png)
 
 ​	进行如下操作，进入到页面后，选择core，确定即可，由于我已经添加，里面已无
 
-![image-20211128164858189](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\24.png)
+![image-20211128164858189](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/24.png)
 
 * 修改core模块的AndroidManifest.xml里的三个红框里的值为刚才在百度智能云创建项目后的数据
 
-![image-20211128171332841](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\25.png)
+![image-20211128171332841](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/25.png)
 
 * 在整个项目下添加gradle.properties
 
@@ -712,15 +712,15 @@ public class SpeechRecognition extends Activity implements EventListener {
 
 ​	在NoteEditor的onOptionsItemSelected函数里添加跳转到语音识别的代码
 
-![image-20211128173631387](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\26.png)
+![image-20211128173631387](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/26.png)
 
 ​	在NoteEditor里添加onActivityResult函数来实现语音识别后的数据接收处理
 
-![image-20211128173932503](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\27.png)
+![image-20211128173932503](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/27.png)
 
 ​	在SpeechRecognition里的”save“按钮的点击事件用来传数据给NoteEditor
 
-![image-20211128174321906](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\28.png)
+![image-20211128174321906](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/28.png)
 
 * 完成效果
 
@@ -728,18 +728,18 @@ public class SpeechRecognition extends Activity implements EventListener {
 
   点击这里进入语音识别
 
-![image-20211128174649565](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\29.png)
+![image-20211128174649565](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/29.png)
 
 ​	进入后，点击开始识别按钮即可进行语音识别
 
-![image-20211128174822148](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\30.png)
+![image-20211128174822148](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/30.png)
 
-![image-20211128174911291](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\31.png)
+![image-20211128174911291](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/31.png)
 
-![image-20211128175021238](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\32.png)
+![image-20211128175021238](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/32.png)
 
 ​	点击完成按钮，即可把什么意思？添加到笔记内容里
 
-![image-20211128175214499](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\33.png)
+![image-20211128175214499](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad/33.png)
 
 * 至此，该项目已全部完成
