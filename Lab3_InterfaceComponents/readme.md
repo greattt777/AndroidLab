@@ -50,7 +50,7 @@
 
 * 效果图片：
 
-  ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/1.png)
+  ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/1.png)
 
   
 
@@ -134,7 +134,7 @@
 
   效果图片：
 
-  ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/2.png)
+  ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/2.png)
 
   
 
@@ -215,19 +215,19 @@
 
   * 菜单界面：
 
-    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/3.界面.png)
+    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/3.界面.png)
 
   * 设置20号字体：
 
-    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/3.设置20号字体.png)
+    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/3.设置20号字体.png)
 
   * 设置红色字体：
 
-    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/3.设置红色字体.png)
+    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/3.设置红色字体.png)
 
   * 点击普通菜单项：
 
-    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/3.点击普通菜单项.png)
+    ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/3.点击普通菜单项.png)
 
     
 
@@ -407,4 +407,4 @@
 
 * 效果图片：
 
-  ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3/4.png)
+  ![vavtor](https://github.com/greattt777/AndroidLab/blob/master/LabImage/Lab3_InterfaceComponents/4.png)
