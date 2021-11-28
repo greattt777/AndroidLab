@@ -5,7 +5,7 @@
 
 * 从Github上拷贝基本框架文件，根据自己可以在电脑上运行的项目修改以下文件
 
-![image-20211128145548851](D:\Project\AndroidStudioProject\Lab\LabImage\mid_notepad\1.png)
+![image-20211128145548851](https://github.com/greattt777/AndroidLab/blob/master/LabImage/mid_notepad\1.png)
 
 * app里的build.gradle
 
